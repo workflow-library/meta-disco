@@ -173,3 +173,6 @@ Open a terminal in JupyterLab and cd to the work dir to create the conda environ
 # Activate metadisco environmen
 ./post_setup.sh
 ```
+## License
+
+This project is licensed under the [MIT License](LICENSE).
